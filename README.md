@@ -6,4 +6,4 @@ Profesor:
 * [Jiménez Morales, Juan Antº](https://github.com/profesorjim/progdaw-20-21)
 
 Alumnos:
-* [Pérez López, Pepito] (https://githubcom/pepito/mirepositorio)
+* [Pérez López, Pepito](https://githubcom/pepito/mirepositorio)
