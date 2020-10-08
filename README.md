@@ -6,4 +6,5 @@ Profesor:
 * [Jiménez Morales, Juan Antº](https://github.com/profesorjim/progdaw-20-21)
 
 Alumnos:
+* [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [Rojas Favero, Ariel Hernán](https://github.com/ArielHernan/Programacion)
