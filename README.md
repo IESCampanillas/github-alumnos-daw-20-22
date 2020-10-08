@@ -19,6 +19,7 @@ Alumnos:
 * [González Al-lal, Omar](https://github.com/gxnzalez)
 * [Hidalgo Moreno, Silvia](https://github.com/SilviaHM)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
+* [López Jiménez, Guillermo](https://github.com/guillelj12/programaciondaw1)
 * [Mancera Taboada, Juan Pedro](https://github.com/juanpee/Programacion20-21)
 * [Marcos Gálvez, Jesús](https://github.com/JesusMarcosDAW/Programacion)
 * [Martín Trujillo, Pablo](https://github.com/PabloMartinTrujillo/Programacion)
