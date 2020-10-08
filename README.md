@@ -2,7 +2,7 @@
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2020 - 2022
 
-Ejemplo:
-* [Prof, Juan Antº Jiménez](https://github.com/profesorjim/progdaw-20-22)
+Profesor:
+* [Prof, Juan Antº Jiménez](https://github.com/profesorjim/progdaw-20-21)
 
 Alumnos:
