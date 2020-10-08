@@ -9,6 +9,7 @@ Alumnos:
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
+* [Moreno Aguilera, Javier](https://github.com/javiermoreno-prog/Aprende-java-con-Ejercicios)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Riveros Racero, Francisco Javier](https://github.com/FJ-Riveros/JAVA-Exercises-DAW-2020-)
 * [Rojas Favero, Ariel Hernán](https://github.com/ArielHernan/Programacion)
