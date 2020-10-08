@@ -11,6 +11,7 @@ Alumnos:
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Martín Trujillo, Pablo](https://github.com/PabloMartinTrujillo/Programacion)
+* [Milanés Barroso, MªTeresa](https://github.com/MTeresaMB/Programacion1DAW)
 * [Moreno Aguilera, Javier](https://github.com/javiermoreno-prog/Aprende-java-con-Ejercicios)
 * [Morón Jurado, José Manuel](https://github.com/JMMJ0/programacion)
 * [Olalla Pérez,Jesús Mª](https://github.com/Jeolpe/Programacion)
