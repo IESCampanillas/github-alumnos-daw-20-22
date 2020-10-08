@@ -11,6 +11,7 @@ Alumnos:
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
+* [Mancera Taboada, Juan Pedro](https://github.com/juanpee/Programacion20-21)
 * [Martín Trujillo, Pablo](https://github.com/PabloMartinTrujillo/Programacion)
 * [Milanés Barroso, MªTeresa](https://github.com/MTeresaMB/Programacion1DAW)
 * [Moreno Aguilera, Javier](https://github.com/javiermoreno-prog/Aprende-java-con-Ejercicios)
