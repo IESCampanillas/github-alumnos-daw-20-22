@@ -6,7 +6,7 @@ Profesor:
 * [Jiménez Morales, Juan Antº](https://github.com/profesorjim/progdaw-20-21)
 
 Alumnos:
-* [Aguilar Munoz, Rafael](https://https://github.com/githubDaw1/programacionEjercicios)
+* [Aguilar Munoz, Rafael](https://github.com/githubDaw1/programacionEjercicios)
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
