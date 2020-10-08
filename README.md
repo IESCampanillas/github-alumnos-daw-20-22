@@ -7,6 +7,7 @@ Profesor:
 
 Alumnos:
 * [Aguilar Munoz, Rafael](https://github.com/githubDaw1/programacionEjercicios)
+* [Aranda Jiménez, Francisco Javier](https://github.com/PacoAranda/progdaw1)
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Bittan Graells, Daniel](https://github.com/danybi/Programacion)
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
