@@ -7,6 +7,7 @@ Profesor:
 
 Alumnos:
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
+* [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Rojas Favero, Ariel Hernán](https://github.com/ArielHernan/Programacion)
