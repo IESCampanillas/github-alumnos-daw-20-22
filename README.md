@@ -14,6 +14,7 @@ Alumnos:
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [García Fernández, Matías José](https://github.com/MatiasJoseGarciaFernandez/programacion)
 * [Gómez Becerra, Daniela Andrea](https://github.com/daniela-gomez/programacion1)
+* [González Al-lal, Omar](https://github.com/xgxnzalez)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Mancera Taboada, Juan Pedro](https://github.com/juanpee/Programacion20-21)
 * [Marcos Gálvez, Jesús](https://github.com/JesusMarcosDAW/Programacion)
