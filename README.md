@@ -8,7 +8,7 @@ Profesor:
 Alumnos:
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
-*[Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
+* [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Rojas Favero, Ariel Hernán](https://github.com/ArielHernan/Programacion)
 * [Ruiz Pérez, Raquel](https://github.com/RaquelRuiz4/EjerciciosDeProgramacion)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildefonso-th/Daw20-21)
