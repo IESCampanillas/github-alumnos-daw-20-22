@@ -10,6 +10,7 @@ Alumnos:
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
+* [García Fernández, Matías José](https://github.com/MatiasJoseGarciaFernandez/programacion)
 * [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
 * [Mancera Taboada, Juan Pedro](https://github.com/juanpee/Programacion20-21)
 * [Martín Trujillo, Pablo](https://github.com/PabloMartinTrujillo/Programacion)
