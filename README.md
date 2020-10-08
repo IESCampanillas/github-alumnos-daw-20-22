@@ -10,6 +10,7 @@ Alumnos:
 * [Aranda Jiménez, Francisco Javier](https://github.com/PacoAranda/progdaw1)
 * [Alvarez Moreno, Carlos](https://github.com/carlos-alvarez-moreno/programacion)
 * [Bittan Graells, Daniel](https://github.com/danybi/Programacion)
+* [de la Torre López, Rubén](https://github.com/ruben-delatorre/programacion)
 * [Duran Eyzaguirre, Mario Giovanny](https://github.com/giodurane/programacion.git)
 * [Galán Pérez, Rubén](https://github.com/rubengalan97/programacion)
 * [García Fernández, Matías José](https://github.com/MatiasJoseGarciaFernandez/programacion)
