@@ -18,7 +18,7 @@ Alumnos:
 * [Gómez Becerra, Daniela Andrea](https://github.com/daniela-gomez/programacion1)
 * [González Al-lal, Omar](https://github.com/gxnzalez)
 * [Hidalgo Moreno, Silvia](https://github.com/SilviaHM)
-* [Hitos Garcia, Esther](https://github.com/hitos-esther/miprimersepositorio)
+* [Hitos Garcia, Esther](https://github.com/hitos-esther/MiRepositorio.git)
 * [López Jiménez, Guillermo](https://github.com/guillelj12/programaciondaw1)
 * [Mancera Taboada, Juan Pedro](https://github.com/juanpee/Programacion20-21)
 * [Marcos Gálvez, Jesús](https://github.com/JesusMarcosDAW/Programacion)
